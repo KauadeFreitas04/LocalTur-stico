@@ -7,6 +7,7 @@ HTML:
 Estruturação de um site sobre Busan, Coreia do Sul, com seções informativas sobre atrações turísticas.
 Uso de cabeçalhos, parágrafos e imagens para apresentar informações de forma clara e atraente.
 Implementação de links e descrições para melhorar a experiência do usuário.
+
 CSS:
 
 Criação de um design responsivo com fundo personalizado e estrutura de página alinhada ao conteúdo.
